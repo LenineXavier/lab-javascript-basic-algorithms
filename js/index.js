@@ -18,7 +18,9 @@ console.log(`The navigator's name is ${hacker2} `)
 
 
 // Iteration 3: Loops
-console.log(hacker1.toUpperCase());
+console.log(hacker1.toUpperCase().split("").join(" "));
+let reverseHacker2 = hacker2.split('').reverse().join('');
+console.log(reverseHacker2);
 
 
 
