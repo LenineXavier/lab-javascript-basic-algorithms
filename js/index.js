@@ -25,7 +25,7 @@ console.log(hacker1.toUpperCase().split("").join(" "));
 let reverseHacker2 = hacker2.split('').reverse().join('');
 console.log(reverseHacker2);
 //3.3 Depending on the lexicographic order of the strings
-//Ordem lexigráfica letras maíusculas precedem mínusculas 
+//Ordem lexicográfica letras maíusculas precedem mínusculas 
 
 hacker1 = hacker1.toLowerCase();
 hacker2 = hacker2.toLowerCase();
